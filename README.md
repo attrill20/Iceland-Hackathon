@@ -1,2 +1,0 @@
-# Iceland-Hackathon
-Iceland Hackathon
